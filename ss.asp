@@ -2,7 +2,7 @@
 
 Send the following POST request in order to send your command
 
-POST /Default.asp? HTTP/1.1
+POST /ss.asp? HTTP/1.1
 Host: 127.0.0.1
 Content-type: application/x-www-form-urlencoded
 Content-Length: 83
